@@ -4,8 +4,9 @@ Application to handle Authentication & Authorization for a group of apps
 
 Model:
 
+![alt text](https://github.com/spaciuk/auth-and-auth/model.png?raw=true)
 
-To continue:
+To continue ...
 
 API:
 
