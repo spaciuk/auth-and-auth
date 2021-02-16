@@ -10,9 +10,9 @@ To continue ...
 
 API:
 
-authenticate(user,pass,application,return_type[true/false,jwt])
+authenticate(user,pass,application,return_type)
 
-jwt,jwt_with_roles,jwt_with_permissions,jwt_with_activities
+return_type: true/false|jwt|jwt_with_roles|jwt_with_permissions|jwt_with_activities
 
 userRoles(user,application,token)
 
